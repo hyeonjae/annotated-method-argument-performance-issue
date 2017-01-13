@@ -1,5 +1,11 @@
 # annotated-method-argument-performance-issue
 
+테스트 방법은 다음과 같습니다.
+```bash
+$ mvn test
+```
+
+
 pom.xml에서 Spring 버전을 변경할 수 있습니다.
 ```xml
 <!--<spring.version>4.2.4.RELEASE</spring.version>-->
