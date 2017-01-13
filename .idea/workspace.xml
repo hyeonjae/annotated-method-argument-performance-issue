@@ -32,8 +32,8 @@
       <file leaf-file-name="AppTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6070826">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            <state vertical-scroll-proportion="1.2816188">
+              <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -104,9 +104,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1375" />
-    <option name="y" value="-727" />
-    <option name="width" value="1692" />
+    <option name="x" value="1314" />
+    <option name="y" value="-803" />
+    <option name="width" value="1680" />
     <option name="height" value="981" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -827,20 +827,20 @@
       <created>1484126138282</created>
       <option name="number" value="Default" />
       <updated>1484126138282</updated>
-      <workItem from="1484126143272" duration="15349000" />
+      <workItem from="1484126143272" duration="17006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15349000" />
+    <option name="totallyTimeSpent" value="17006000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1375" y="-727" width="1692" height="981" extended-state="0" />
-    <editor active="false" />
+    <frame x="1314" y="-803" width="1680" height="981" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295711" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295711" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947624" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -856,7 +856,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886723" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24847747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25030676" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295711" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="GfmBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1156,40 +1156,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4721754">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.089376055">
+        <state vertical-scroll-proportion="0.6408094">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <marker date="1484198916000" expanded="true" signature="-1:-1" placeholder="..." />
@@ -1217,10 +1186,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.539629">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1484198783000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3372681">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.5059022">
+          <caret line="17" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <marker date="1484135168000" expanded="true" signature="-1:-1" placeholder="@{...}" />
             <marker date="1484135168000" expanded="false" signature="-1:-1" placeholder=" { " />
@@ -1232,8 +1232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6070826">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        <state vertical-scroll-proportion="1.2816188">
+          <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
           <folding />
         </state>
       </provider>
